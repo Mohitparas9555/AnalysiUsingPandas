@@ -1,0 +1,601 @@
+Alignment,Publisher,name,Gender,Eye color,Race
+bad,Dark Horse Comics,Alien,Male,-,Xenomorph XX121
+bad,Dark Horse Comics,Predator,Male,-,Yautja
+bad,Dark Horse Comics,T-1000,Male,-,Android
+bad,Dark Horse Comics,T-800,Male,red,Cyborg
+bad,Dark Horse Comics,T-850,Male,red,Cyborg
+bad,Dark Horse Comics,T-X,Female,-,Cyborg
+bad,George Lucas,Boba Fett,Male,brown,Human / Clone
+bad,George Lucas,Darth Maul,Male,yellow / red,Dathomirian Zabrak
+bad,George Lucas,Darth Vader,Male,yellow,Cyborg
+bad,George Lucas,Greedo,Male,purple,Rodian
+bad,George Lucas,Kylo Ren,Male,-,Human
+bad,George Lucas,Stormtrooper,Male,-,Human
+bad,Icon Comics,Red Mist,Male,-,-
+bad,Image Comics,Angela,Female,-,-
+bad,Image Comics,Anti-Spawn,Male,-,-
+bad,Image Comics,Billy Kincaid,Male,-,-
+bad,Image Comics,Bomb Queen,Female,-,-
+bad,Image Comics,Cogliostro,Male,-,-
+bad,Image Comics,Curse,Male,-,-
+bad,Image Comics,Cy-Gor,Male,-,-
+bad,Image Comics,Overtkill,Male,-,-
+bad,Image Comics,Redeemer II,Male,-,-
+bad,Image Comics,Redeemer III,Male,-,-
+bad,Image Comics,Violator,Male,-,-
+bad,J. R. R. Tolkien,Sauron,Male,-,Maiar
+bad,Marvel Comics,Abomination,Male,green,Human / Radiation
+bad,Marvel Comics,Abraxas,Male,blue,Cosmic Entity
+bad,Marvel Comics,Absorbing Man,Male,blue,Human
+bad,Marvel Comics,Air-Walker,Male,blue,-
+bad,Marvel Comics,Ajax,Male,brown,Cyborg
+bad,Marvel Comics,Ammo,Male,brown,Human
+bad,Marvel Comics,Annihilus,Male,green,-
+bad,Marvel Comics,Apocalypse,Male,red,Mutant
+bad,Marvel Comics,Arclight,Female,violet,-
+bad,Marvel Comics,Azazel,Male,yellow,Neyaphem
+bad,Marvel Comics,Beetle,Male,-,-
+bad,Marvel Comics,Big Man,Male,blue,-
+bad,Marvel Comics,Bird-Man,Male,-,Human
+bad,Marvel Comics,Bird-Man II,Male,-,Human
+bad,Marvel Comics,Black Abbott,Male,red,-
+bad,Marvel Comics,Black Mamba,Female,green,-
+bad,Marvel Comics,Blackout,Male,red,Demon
+bad,Marvel Comics,Blackwing,Male,blue,-
+bad,Marvel Comics,Blizzard,Male,-,-
+bad,Marvel Comics,Blizzard,Male,-,-
+bad,Marvel Comics,Blizzard II,Male,brown,-
+bad,Marvel Comics,Blob,Male,brown,-
+bad,Marvel Comics,Bloodaxe,Female,blue,Human
+bad,Marvel Comics,Bloodwraith,Male,white,-
+bad,Marvel Comics,Bullseye,Male,blue,Human
+bad,Marvel Comics,Callisto,Female,blue,-
+bad,Marvel Comics,Carnage,Male,green,Symbiote
+bad,Marvel Comics,Changeling,Male,brown,-
+bad,Marvel Comics,Cottonmouth,Male,brown,Human
+bad,Marvel Comics,Demogoblin,Male,red,Demon
+bad,Marvel Comics,Destroyer,Male,-,-
+bad,Marvel Comics,Diamondback,Male,brown,Human
+bad,Marvel Comics,Doctor Doom,Male,brown,Human
+bad,Marvel Comics,Doctor Doom II,Male,brown,-
+bad,Marvel Comics,Doctor Octopus,Male,brown,Human
+bad,Marvel Comics,Doppelganger,Male,white,-
+bad,Marvel Comics,Dormammu,Male,yellow,-
+bad,Marvel Comics,Ego,-,-,-
+bad,Marvel Comics,Electro,Male,blue,Human
+bad,Marvel Comics,Evil Deadpool,Male,white,Mutant
+bad,Marvel Comics,Evilhawk,Male,red,Alien
+bad,Marvel Comics,Exodus,Male,blue,Mutant
+bad,Marvel Comics,Fabian Cortez,-,blue,-
+bad,Marvel Comics,Fallen One II,Male,black,-
+bad,Marvel Comics,Fixer,-,red,-
+bad,Marvel Comics,Frenzy,Female,brown,-
+bad,Marvel Comics,Goblin Queen,Female,green,-
+bad,Marvel Comics,Green Goblin,Male,blue,Human
+bad,Marvel Comics,Green Goblin II,Male,blue,-
+bad,Marvel Comics,Hela,Female,green,Asgardian
+bad,Marvel Comics,Hobgoblin,Male,blue,-
+bad,Marvel Comics,Hydro-Man,Male,brown,-
+bad,Marvel Comics,Iron Monger,Male,blue,-
+bad,Marvel Comics,Jigsaw,Male,blue,-
+bad,Marvel Comics,Junkpile,Male,-,Mutant
+bad,Marvel Comics,Kang,Male,brown,-
+bad,Marvel Comics,Kingpin,Male,blue,Human
+bad,Marvel Comics,Klaw,Male,red,Human
+bad,Marvel Comics,Kraven II,Male,brown,Human
+bad,Marvel Comics,Kraven the Hunter,Male,brown,Human
+bad,Marvel Comics,Lady Bullseye,Female,-,-
+bad,Marvel Comics,Lady Deathstrike,Female,brown,Cyborg
+bad,Marvel Comics,Leader,Male,green,-
+bad,Marvel Comics,Living Brain,-,yellow,-
+bad,Marvel Comics,Lizard,Male,red,Human
+bad,Marvel Comics,Loki,Male,green,Asgardian
+bad,Marvel Comics,Mach-IV,Male,brown,-
+bad,Marvel Comics,Magneto,Male,grey,Mutant
+bad,Marvel Comics,Magus,Male,black,-
+bad,Marvel Comics,Mandarin,Male,blue,Human
+bad,Marvel Comics,Mephisto,Male,white,-
+bad,Marvel Comics,Mister Knife,Male,blue,Spartoi
+bad,Marvel Comics,Mister Sinister,Male,red,Human / Altered
+bad,Marvel Comics,MODOK,Male,white,Cyborg
+bad,Marvel Comics,Molten Man,Male,gold,-
+bad,Marvel Comics,Moonstone,Female,blue,-
+bad,Marvel Comics,Morlun,Male,white / red,-
+bad,Marvel Comics,Moses Magnum,Male,brown,-
+bad,Marvel Comics,Mysterio,Male,brown,Human
+bad,Marvel Comics,Mystique,Female,yellow (without irises),Mutant
+bad,Marvel Comics,Nebula,Female,blue,Luphomoid
+bad,Marvel Comics,Omega Red,Male,red,-
+bad,Marvel Comics,Onslaught,Male,red,Mutant
+bad,Marvel Comics,Plantman,Male,green,Mutant
+bad,Marvel Comics,Proto-Goblin,Male,green,-
+bad,Marvel Comics,Purple Man,Male,purple,Human
+bad,Marvel Comics,Pyro,Male,blue,-
+bad,Marvel Comics,Razor-Fist II,Male,blue,-
+bad,Marvel Comics,Red Skull,Male,blue,-
+bad,Marvel Comics,Rhino,Male,brown,Human / Radiation
+bad,Marvel Comics,Sabretooth,Male,amber,Mutant
+bad,Marvel Comics,Scarlet Witch,Female,blue,Mutant
+bad,Marvel Comics,Scorpia,Female,green,-
+bad,Marvel Comics,Scorpion,Male,brown,Human
+bad,Marvel Comics,Sebastian Shaw,Male,-,Mutant
+bad,Marvel Comics,Shocker,Male,brown,Human
+bad,Marvel Comics,Siryn,Female,blue,-
+bad,Marvel Comics,Snake-Eyes,Male,-,Animal
+bad,Marvel Comics,Spider-Carnage,Male,-,Symbiote
+bad,Marvel Comics,Spider-Woman IV,Female,red,-
+bad,Marvel Comics,Swarm,Male,yellow,Mutant
+bad,Marvel Comics,Taskmaster,Male,brown,Human
+bad,Marvel Comics,Thanos,Male,red,Eternal
+bad,Marvel Comics,Tiger Shark,Male,grey,Human
+bad,Marvel Comics,Tinkerer,Male,brown,-
+bad,Marvel Comics,Ultron,Male,red,Android
+bad,Marvel Comics,Utgard-Loki,Male,blue,Frost Giant
+bad,Marvel Comics,Vanisher,Male,green,-
+bad,Marvel Comics,Venom,Male,blue,Symbiote
+bad,Marvel Comics,Venom II,Male,brown,-
+bad,Marvel Comics,Venom III,Male,brown,Symbiote
+bad,Marvel Comics,Vulture,Male,brown,Human
+bad,Marvel Comics,Walrus,Male,blue,Human
+bad,Marvel Comics,Weapon XI,Male,-,-
+bad,Marvel Comics,Yellow Claw,Male,blue,-
+bad,NBC - Heroes,Elle Bishop,Female,blue,-
+bad,NBC - Heroes,Luke Campbell,Male,-,-
+bad,NBC - Heroes,Sylar,Male,-,-
+bad,Shueisha,Vegeta,Male,-,Saiyan
+bad,Team Epic TV,Chromos,Male,brown,-
+bad,Wildstorm,Alex Mercer,Male,-,Human
+good,,Astro Boy,Male,brown,-
+good,,Bionic Woman,Female,blue,Cyborg
+good,,Chuck Norris,Male,-,-
+good,,Ethan Hunt,Male,brown,Human
+good,,Flash Gordon,Male,-,-
+good,,Jack Bauer,Male,-,-
+good,,Jason Bourne,Male,-,Human
+good,,Katniss Everdeen,Female,-,Human
+good,,King Kong,Male,yellow,Animal
+good,,Kool-Aid Man,Male,black,-
+good,,Rambo,Male,brown,Human
+good,,The Cape,Male,-,-
+good,ABC Studios,Daphne Powell,Female,-,-
+good,ABC Studios,Jim Powell,Male,-,-
+good,ABC Studios,JJ Powell,Male,-,-
+good,ABC Studios,Stephanie Powell,Female,-,-
+good,DC Comics,Abin Sur,Male,blue,Ungaran
+good,DC Comics,Adam Strange,Male,blue,Human
+good,DC Comics,Alan Scott,Male,blue,-
+good,DC Comics,Alfred Pennyworth,Male,blue,Human
+good,DC Comics,Animal Man,Male,blue,Human
+good,DC Comics,Aquababy,Male,blue,-
+good,DC Comics,Aqualad,Male,blue,Atlantean
+good,DC Comics,Aquaman,Male,blue,Atlantean
+good,DC Comics,Arsenal,Male,-,Human
+good,DC Comics,Atom,Male,blue,-
+good,DC Comics,Atom,Male,-,-
+good,DC Comics,Atom Girl,Female,black,-
+good,DC Comics,Atom II,Male,brown,Human
+good,DC Comics,Atom III,Male,-,-
+good,DC Comics,Atom IV,Male,brown,-
+good,DC Comics,Azrael,Male,brown,Human
+good,DC Comics,Aztar,Male,-,-
+good,DC Comics,Batgirl,Female,-,-
+good,DC Comics,Batgirl,Female,green,Human
+good,DC Comics,Batgirl III,Female,-,-
+good,DC Comics,Batgirl IV,Female,green,Human
+good,DC Comics,Batgirl V,Female,-,-
+good,DC Comics,Batgirl VI,Female,blue,-
+good,DC Comics,Batman,Male,blue,Human
+good,DC Comics,Batman,Male,blue,Human
+good,DC Comics,Batman II,Male,blue,Human
+good,DC Comics,Batwoman V,Female,green,Human
+good,DC Comics,Beast Boy,Male,green,Human
+good,DC Comics,Ben 10,Male,-,-
+good,DC Comics,Black Canary,Female,blue,Human
+good,DC Comics,Black Canary,Female,blue,Metahuman
+good,DC Comics,Black Lightning,Male,brown,-
+good,DC Comics,Blue Beetle,Male,blue,-
+good,DC Comics,Blue Beetle,Male,-,-
+good,DC Comics,Blue Beetle II,Male,blue,-
+good,DC Comics,Blue Beetle III,Male,brown,Human
+good,DC Comics,Booster Gold,Male,blue,Human
+good,DC Comics,Brainiac 5,Male,green,-
+good,DC Comics,Bumblebee,Female,brown,Human
+good,DC Comics,Bushido,Male,-,Human
+good,DC Comics,Captain Atom,Male,blue,Human / Radiation
+good,DC Comics,Captain Marvel,Male,blue,Human
+good,DC Comics,Captain Marvel II,Male,blue,Human
+good,DC Comics,Catwoman,Female,green,Human
+good,DC Comics,Citizen Steel,Male,green,Human
+good,DC Comics,Colossal Boy,Male,-,-
+good,DC Comics,Cyborg,Male,brown,Cyborg
+good,DC Comics,Deadman,Male,blue,Human
+good,DC Comics,Doctor Fate,Male,blue,Human
+good,DC Comics,Donna Troy,Female,blue,Amazon
+good,DC Comics,Dr Manhattan,Male,white,Human / Cosmic
+good,DC Comics,Elongated Man,Male,blue,-
+good,DC Comics,Enchantress,Female,blue,Human
+good,DC Comics,ERG-1,Male,-,-
+good,DC Comics,Fighting Spirit,Female,-,-
+good,DC Comics,Firestorm,Male,brown,-
+good,DC Comics,Firestorm,Male,blue,Human
+good,DC Comics,Flash,Male,blue,Human
+good,DC Comics,Flash II,Male,blue,Human
+good,DC Comics,Flash III,Male,-,Human
+good,DC Comics,Flash IV,Male,yellow,Human
+good,DC Comics,Garbage Man,Male,-,Mutant
+good,DC Comics,Green Arrow,Male,green,Human
+good,DC Comics,Guy Gardner,Male,blue,Human-Vuldarian
+good,DC Comics,Hal Jordan,Male,brown,Human
+good,DC Comics,Hawk,Male,red,-
+good,DC Comics,Hawkgirl,Female,green,-
+good,DC Comics,Hawkman,Male,blue,-
+good,DC Comics,Hawkwoman,Female,green,-
+good,DC Comics,Hawkwoman II,Female,-,-
+good,DC Comics,Hawkwoman III,Female,blue,-
+good,DC Comics,Huntress,Female,blue,-
+good,DC Comics,Impulse,Male,yellow,Human
+good,DC Comics,Isis,Female,-,-
+good,DC Comics,Jesse Quick,Female,-,Human
+good,DC Comics,Jessica Cruz,Female,green,Human
+good,DC Comics,John Constantine,Male,blue,Human
+good,DC Comics,John Stewart,Male,green,Human
+good,DC Comics,Karate Kid,Male,brown,Human
+good,DC Comics,Kevin 11,Male,-,Human
+good,DC Comics,Kid Flash,Male,green,Human
+good,DC Comics,Kid Flash II,Male,-,-
+good,DC Comics,Kilowog,Male,red,Bolovaxian
+good,DC Comics,Krypto,Male,blue,Kryptonian
+good,DC Comics,Kyle Rayner,Male,green,Human
+good,DC Comics,Light Lass,Female,blue,-
+good,DC Comics,Lightning Lad,Male,blue,-
+good,DC Comics,Magog,Male,blue,-
+good,DC Comics,Martian Manhunter,Male,red,Martian
+good,DC Comics,Mera,Female,blue,Atlantean
+good,DC Comics,Metamorpho,Male,black,-
+good,DC Comics,Metron,Male,blue,-
+good,DC Comics,Micro Lad,Male,grey,-
+good,DC Comics,Misfit,Female,blue,-
+good,DC Comics,Miss Martian,Female,red,-
+good,DC Comics,Mogo,Male,-,Planet
+good,DC Comics,Monarch,Male,blue,-
+good,DC Comics,Nightwing,Male,blue,Human
+good,DC Comics,Nite Owl II,Male,-,-
+good,DC Comics,Offspring,Male,-,-
+good,DC Comics,Oracle,Female,blue,Human
+good,DC Comics,Osiris,Male,brown,-
+good,DC Comics,Phantom,Male,-,-
+good,DC Comics,Phantom Girl,Female,blue,-
+good,DC Comics,Plastic Lad,Male,-,-
+good,DC Comics,Plastic Man,Male,blue,Human
+good,DC Comics,Power Girl,Female,blue,Kryptonian
+good,DC Comics,Question,Male,blue,Human
+good,DC Comics,Ray,Male,green,Human
+good,DC Comics,Red Arrow,Male,green,Human
+good,DC Comics,Red Robin,Male,blue,Human
+good,DC Comics,Red Tornado,Male,green,Android
+good,DC Comics,Rip Hunter,Male,blue,Human
+good,DC Comics,Robin,Male,blue,Human
+good,DC Comics,Robin II,Male,blue,Human
+good,DC Comics,Robin III,Male,blue,Human
+good,DC Comics,Robin V,Male,blue,Human
+good,DC Comics,Rorschach,Male,blue,Human
+good,DC Comics,Shadow Lass,Female,black,Talokite
+good,DC Comics,Shrinking Violet,Female,-,-
+good,DC Comics,Silk Spectre,Female,-,-
+good,DC Comics,Silk Spectre II,Female,-,-
+good,DC Comics,Simon Baz,Male,bown,Human
+good,DC Comics,Sobek,Male,white,-
+good,DC Comics,Space Ghost,Male,-,Human
+good,DC Comics,Spectre,Male,white,God / Eternal
+good,DC Comics,Speedy,Male,-,Human
+good,DC Comics,Speedy,Female,green,Human
+good,DC Comics,Starfire,Female,green,Tamaranean
+good,DC Comics,Stargirl,Female,blue,Human
+good,DC Comics,Static,Male,brown,Mutant
+good,DC Comics,Steel,Male,brown,-
+good,DC Comics,Superboy,Male,blue,-
+good,DC Comics,Supergirl,Female,blue,Kryptonian
+good,DC Comics,Superman,Male,blue,Kryptonian
+good,DC Comics,Triplicate Girl,Female,purple,-
+good,DC Comics,Vibe,Male,brown,Human
+good,DC Comics,Vixen,Female,amber,Human
+good,DC Comics,Wildfire,Male,-,-
+good,DC Comics,Wonder Girl,Female,blue,Demi-God
+good,DC Comics,Wonder Woman,Female,blue,Amazon
+good,DC Comics,Zatanna,Female,blue,Human
+good,Dark Horse Comics,Abe Sapien,Male,blue,Icthyo Sapien
+good,Dark Horse Comics,Angel,Male,-,Vampire
+good,Dark Horse Comics,Buffy,Female,green,Human
+good,Dark Horse Comics,Captain Midnight,Male,-,Human
+good,Dark Horse Comics,Dash,Male,blue,Human
+good,Dark Horse Comics,Elastigirl,Female,brown,Human
+good,Dark Horse Comics,Hellboy,Male,gold,Demon
+good,Dark Horse Comics,Jack-Jack,Male,blue,Human
+good,Dark Horse Comics,Johann Krauss,Male,-,-
+good,Dark Horse Comics,Liz Sherman,Female,-,-
+good,Dark Horse Comics,Mr Incredible,Male,blue,Human
+good,Dark Horse Comics,Violet Parr,Female,violet,Human
+good,George Lucas,Han Solo,Male,brown,Human
+good,George Lucas,Indiana Jones,Male,-,Human
+good,George Lucas,Jar Jar Binks,Male,yellow,Gungan
+good,George Lucas,Jyn Erso,Female,green,Human
+good,George Lucas,K-2SO,Male,white,Android
+good,George Lucas,Luke Skywalker,Male,blue,Human
+good,George Lucas,Rey,Female,hazel,Human
+good,George Lucas,Yoda,Male,brown,Yoda's species
+good,Hanna-Barbera,Birdman,Male,-,God / Eternal
+good,HarperCollins,Colin Wagner,Male,grey,-
+good,HarperCollins,Danny Cooper,Male,brown,-
+good,HarperCollins,Energy,Female,-,-
+good,HarperCollins,Quantum,Male,-,-
+good,HarperCollins,Renata Soliz,Female,-,-
+good,HarperCollins,Titan,Male,-,-
+good,IDW Publishing,Donatello,Male,green,Mutant
+good,IDW Publishing,Leonardo,Male,blue,Mutant
+good,IDW Publishing,Michelangelo,Male,blue,Mutant
+good,IDW Publishing,Raphael,Male,-,Mutant
+good,Icon Comics,Big Daddy,Male,-,-
+good,Icon Comics,Hit-Girl,Female,-,Human
+good,Icon Comics,Kick-Ass,Male,blue,Human
+good,Image Comics,Savage Dragon,Male,-,-
+good,Image Comics,Spawn,Male,brown,Demon
+good,J. K. Rowling,Harry Potter,Male,green,Human
+good,Marvel Comics,A-Bomb,Male,yellow,Human
+good,Marvel Comics,Agent 13,Female,blue,-
+good,Marvel Comics,Agent Bob,Male,brown,Human
+good,Marvel Comics,Agent Zero,Male,-,-
+good,Marvel Comics,Angel,Male,blue,-
+good,Marvel Comics,Angel Dust,Female,yellow,Mutant
+good,Marvel Comics,Angel Salvadore,Female,brown,-
+good,Marvel Comics,Ant-Man,Male,blue,Human
+good,Marvel Comics,Ant-Man II,Male,blue,Human
+good,Marvel Comics,Arachne,Female,blue,Human
+good,Marvel Comics,Archangel,Male,blue,Mutant
+good,Marvel Comics,Ardina,Female,white,Alien
+good,Marvel Comics,Ares,Male,brown,-
+good,Marvel Comics,Ariel,Female,purple,-
+good,Marvel Comics,Armor,Female,black,-
+good,Marvel Comics,Atlas,Male,brown,Mutant
+good,Marvel Comics,Aurora,Female,blue,Mutant
+good,Marvel Comics,Banshee,Male,green,Human
+good,Marvel Comics,Bantam,Male,brown,-
+good,Marvel Comics,Battlestar,Male,brown,-
+good,Marvel Comics,Beak,Male,black,-
+good,Marvel Comics,Beast,Male,blue,Mutant
+good,Marvel Comics,Beta Ray Bill,Male,-,-
+good,Marvel Comics,Beyonder,Male,-,God / Eternal
+good,Marvel Comics,Binary,Female,blue,-
+good,Marvel Comics,Bird-Brain,-,-,-
+good,Marvel Comics,Bishop,Male,brown,Mutant
+good,Marvel Comics,Black Bolt,Male,blue,Inhuman
+good,Marvel Comics,Black Cat,Female,green,Human
+good,Marvel Comics,Black Goliath,Male,-,-
+good,Marvel Comics,Black Knight III,Male,brown,Human
+good,Marvel Comics,Black Panther,Male,brown,Human
+good,Marvel Comics,Black Widow,Female,green,Human
+good,Marvel Comics,Black Widow II,Female,blue,-
+good,Marvel Comics,Blade,Male,brown,Vampire
+good,Marvel Comics,Blaquesmith,-,black,-
+good,Marvel Comics,Bling!,Female,-,-
+good,Marvel Comics,Blink,Female,green,Mutant
+good,Marvel Comics,Bloodhawk,Male,black,Mutant
+good,Marvel Comics,Bolt,Male,-,-
+good,Marvel Comics,Boom-Boom,Female,blue,Mutant
+good,Marvel Comics,Boomer,Female,-,-
+good,Marvel Comics,Box,Male,-,-
+good,Marvel Comics,Box III,-,blue,-
+good,Marvel Comics,Box IV,-,brown,-
+good,Marvel Comics,Brother Voodoo,Male,brown,Human
+good,Marvel Comics,Bumbleboy,Male,-,-
+good,Marvel Comics,Cable,Male,blue,Mutant
+good,Marvel Comics,Cannonball,Male,blue,-
+good,Marvel Comics,Captain America,Male,blue,Human
+good,Marvel Comics,Captain Britain,Male,blue,Human
+good,Marvel Comics,Captain Mar-vell,Male,blue,-
+good,Marvel Comics,Captain Marvel,Female,blue,Human-Kree
+good,Marvel Comics,Captain Planet,Male,red,God / Eternal
+good,Marvel Comics,Captain Universe,-,-,God / Eternal
+good,Marvel Comics,Cat,Female,blue,-
+good,Marvel Comics,Cat II,Female,-,-
+good,Marvel Comics,Cecilia Reyes,-,brown,-
+good,Marvel Comics,Century,Male,white,Alien
+good,Marvel Comics,Cerebra,Female,-,Mutant
+good,Marvel Comics,Chamber,Male,brown,Mutant
+good,Marvel Comics,Clea,-,-,-
+good,Marvel Comics,Cloak,Male,brown,-
+good,Marvel Comics,Colossus,Male,silver,Mutant
+good,Marvel Comics,Corsair,Male,brown,-
+good,Marvel Comics,Crimson Crusader,Male,blue,-
+good,Marvel Comics,Crimson Dynamo,Male,brown,-
+good,Marvel Comics,Crystal,Female,green,Inhuman
+good,Marvel Comics,Cyclops,Male,brown,Mutant
+good,Marvel Comics,Cypher,-,blue,-
+good,Marvel Comics,Dagger,Female,blue,-
+good,Marvel Comics,Daredevil,Male,blue,Human
+good,Marvel Comics,Darkhawk,Male,brown,Human
+good,Marvel Comics,Darkstar,Female,brown,Mutant
+good,Marvel Comics,Dazzler,Female,blue,Mutant
+good,Marvel Comics,Deathlok,Male,brown,Cyborg
+good,Marvel Comics,Doc Samson,Male,blue,Human / Radiation
+good,Marvel Comics,Doctor Strange,Male,grey,Human
+good,Marvel Comics,Domino,Female,blue,Human
+good,Marvel Comics,Drax the Destroyer,Male,red,Human / Altered
+good,Marvel Comics,Elektra,Female,blue,Human
+good,Marvel Comics,Emma Frost,Female,blue,-
+good,Marvel Comics,Falcon,Male,brown,Human
+good,Marvel Comics,Feral,-,yellow (without irises),-
+good,Marvel Comics,Fin Fang Foom,Male,red,Kakarantharaian
+good,Marvel Comics,Firebird,Female,brown,-
+good,Marvel Comics,Firelord,-,white,-
+good,Marvel Comics,Firestar,Female,green,Mutant
+good,Marvel Comics,Forge,-,brown,-
+good,Marvel Comics,Franklin Richards,Male,blue,Mutant
+good,Marvel Comics,Franklin Storm,-,blue,-
+good,Marvel Comics,Frigga,Female,blue,-
+good,Marvel Comics,Gambit,Male,red,Mutant
+good,Marvel Comics,Gamora,Female,yellow,Zen-Whoberian
+good,Marvel Comics,Genesis,Male,blue,-
+good,Marvel Comics,Ghost Rider,Male,red,Demon
+good,Marvel Comics,Ghost Rider II,-,-,-
+good,Marvel Comics,Giant-Man,Male,-,Human
+good,Marvel Comics,Giant-Man II,Male,-,-
+good,Marvel Comics,Goliath,Male,-,-
+good,Marvel Comics,Goliath,Male,-,Human
+good,Marvel Comics,Goliath,Male,-,Human
+good,Marvel Comics,Goliath IV,Male,brown,-
+good,Marvel Comics,Gravity,Male,blue,Human
+good,Marvel Comics,Green Goblin III,Male,-,-
+good,Marvel Comics,Green Goblin IV,Male,green,-
+good,Marvel Comics,Groot,Male,yellow,Flora Colossus
+good,Marvel Comics,Guardian,Male,brown,Human
+good,Marvel Comics,Havok,Male,blue,Mutant
+good,Marvel Comics,Hawkeye,Male,blue,Human
+good,Marvel Comics,Hawkeye II,Female,blue,Human
+good,Marvel Comics,Hellcat,Female,blue,Human
+good,Marvel Comics,Hellstorm,Male,red,-
+good,Marvel Comics,Hercules,Male,blue,Demi-God
+good,Marvel Comics,Hollow,Female,blue,-
+good,Marvel Comics,Hope Summers,Female,green,-
+good,Marvel Comics,Howard the Duck,Male,brown,-
+good,Marvel Comics,Hulk,Male,green,Human / Radiation
+good,Marvel Comics,Human Torch,Male,blue,Human / Radiation
+good,Marvel Comics,Husk,Female,blue,Mutant
+good,Marvel Comics,Hybrid,Male,brown,Symbiote
+good,Marvel Comics,Hyperion,Male,blue,Eternal
+good,Marvel Comics,Iceman,Male,brown,Mutant
+good,Marvel Comics,Ink,Male,blue,Mutant
+good,Marvel Comics,Invisible Woman,Female,blue,Human / Radiation
+good,Marvel Comics,Iron Fist,Male,blue,Human
+good,Marvel Comics,Iron Man,Male,blue,Human
+good,Marvel Comics,Jack of Hearts,Male,blue / white,Human
+good,Marvel Comics,Jean Grey,Female,green,Mutant
+good,Marvel Comics,Jennifer Kale,Female,blue,-
+good,Marvel Comics,Jessica Jones,Female,brown,Human
+good,Marvel Comics,John Wraith,Male,brown,-
+good,Marvel Comics,Jolt,Female,blue,-
+good,Marvel Comics,Jubilee,Female,red,Mutant
+good,Marvel Comics,Justice,Male,hazel,Human
+good,Marvel Comics,Leech,Male,-,-
+good,Marvel Comics,Legion,Male,green / blue,Mutant
+good,Marvel Comics,Longshot,Male,blue,Human
+good,Marvel Comics,Luke Cage,Male,brown,Human
+good,Marvel Comics,Luna,Female,-,Human
+good,Marvel Comics,Lyja,Female,green,-
+good,Marvel Comics,Machine Man,-,red,-
+good,Marvel Comics,Man-Thing,Male,red,-
+good,Marvel Comics,Man-Wolf,Male,brown,-
+good,Marvel Comics,Mantis,Female,green,Human-Kree
+good,Marvel Comics,Marvel Girl,Female,green,-
+good,Marvel Comics,Maverick,Male,blue,-
+good,Marvel Comics,Medusa,Female,green,Inhuman
+good,Marvel Comics,Meltdown,Female,blue,-
+good,Marvel Comics,Meteorite,Female,-,-
+good,Marvel Comics,Mimic,Male,brown,-
+good,Marvel Comics,Mister Fantastic,Male,brown,Human / Radiation
+good,Marvel Comics,Mockingbird,Female,blue,Human
+good,Marvel Comics,Moon Knight,Male,brown,Human
+good,Marvel Comics,Morph,Male,white,-
+good,Marvel Comics,Mr Immortal,Male,blue,Mutant
+good,Marvel Comics,Ms Marvel II,Female,blue,-
+good,Marvel Comics,Multiple Man,Male,blue,-
+good,Marvel Comics,Namor,Male,-,-
+good,Marvel Comics,Namor,Male,grey,Atlantean
+good,Marvel Comics,Namora,Female,blue,-
+good,Marvel Comics,Namorita,Female,blue,-
+good,Marvel Comics,Negasonic Teenage Warhead,Female,black,Mutant
+good,Marvel Comics,Nick Fury,Male,brown,Human
+good,Marvel Comics,Nightcrawler,Male,yellow,-
+good,Marvel Comics,Northstar,Male,blue,-
+good,Marvel Comics,Nova,Male,brown,Human
+good,Marvel Comics,Nova,Female,white,Human / Cosmic
+good,Marvel Comics,Odin,Male,blue,God / Eternal
+good,Marvel Comics,Penance,-,-,-
+good,Marvel Comics,Penance I,Female,-,-
+good,Marvel Comics,Penance II,Male,blue,-
+good,Marvel Comics,Phoenix,Female,green,Mutant
+good,Marvel Comics,Polaris,Female,green,Mutant
+good,Marvel Comics,Power Man,Male,-,Mutant
+good,Marvel Comics,Professor X,Male,blue,Mutant
+good,Marvel Comics,Psylocke,Female,blue,Mutant
+good,Marvel Comics,Punisher,Male,blue,Human
+good,Marvel Comics,Quicksilver,Male,blue,Mutant
+good,Marvel Comics,Quill,Male,brown,-
+good,Marvel Comics,Ripcord,Female,green,-
+good,Marvel Comics,Rocket Raccoon,Male,brown,Animal
+good,Marvel Comics,Rogue,Female,green,-
+good,Marvel Comics,Ronin,Male,blue,Human
+good,Marvel Comics,Sage,Female,blue,-
+good,Marvel Comics,Sasquatch,Male,red,-
+good,Marvel Comics,Scarlet Spider,Male,blue,Human
+good,Marvel Comics,Scarlet Spider II,Male,brown,Clone
+good,Marvel Comics,Shadow King,-,red,-
+good,Marvel Comics,Shadowcat,Female,hazel,Mutant
+good,Marvel Comics,Shang-Chi,Male,brown,Human
+good,Marvel Comics,Shatterstar,Male,brown,-
+good,Marvel Comics,She-Hulk,Female,green,Human
+good,Marvel Comics,She-Thing,Female,blue,Human / Radiation
+good,Marvel Comics,Shriek,Female,yellow / blue,-
+good,Marvel Comics,Sif,Female,blue,Asgardian
+good,Marvel Comics,Silk,Female,brown,Human
+good,Marvel Comics,Silver Surfer,Male,white,Alien
+good,Marvel Comics,Silverclaw,Female,brown,-
+good,Marvel Comics,Skaar,Male,green,-
+good,Marvel Comics,Snowbird,Female,white,-
+good,Marvel Comics,Songbird,Female,green,-
+good,Marvel Comics,Speedball,Male,-,-
+good,Marvel Comics,Spider-Girl,Female,blue,Human
+good,Marvel Comics,Spider-Gwen,Female,blue,Human
+good,Marvel Comics,Spider-Man,Male,hazel,Human
+good,Marvel Comics,Spider-Man,-,red,Human
+good,Marvel Comics,Spider-Man,Male,brown,Human
+good,Marvel Comics,Spider-Woman,Female,green,Human
+good,Marvel Comics,Spider-Woman II,Female,-,-
+good,Marvel Comics,Spider-Woman III,Female,brown,-
+good,Marvel Comics,Spyke,Male,brown,Mutant
+good,Marvel Comics,Stacy X,Female,-,-
+good,Marvel Comics,Star-Lord,Male,blue,Human-Spartoi
+good,Marvel Comics,Stardust,Male,-,-
+good,Marvel Comics,Storm,Female,blue,Mutant
+good,Marvel Comics,Sunspot,Male,brown,Mutant
+good,Marvel Comics,Synch,Male,brown,-
+good,Marvel Comics,Tempest,Female,brown,-
+good,Marvel Comics,Thing,Male,blue,Human / Radiation
+good,Marvel Comics,Thor,Male,blue,Asgardian
+good,Marvel Comics,Thor Girl,Female,blue,Asgardian
+good,Marvel Comics,Thunderbird,Male,brown,-
+good,Marvel Comics,Thunderbird II,Male,-,-
+good,Marvel Comics,Thunderbird III,Male,brown,-
+good,Marvel Comics,Thunderstrike,Male,blue,-
+good,Marvel Comics,Thundra,Female,green,-
+good,Marvel Comics,Tigra,Female,green,-
+good,Marvel Comics,Toxin,Male,blue,Symbiote
+good,Marvel Comics,Toxin,Male,black,Symbiote
+good,Marvel Comics,Triton,Male,green,Inhuman
+good,Marvel Comics,Ultragirl,Female,blue,-
+good,Marvel Comics,Vagabond,Female,blue,-
+good,Marvel Comics,Valkyrie,Female,blue,-
+good,Marvel Comics,Vertigo II,Female,blue,-
+good,Marvel Comics,Vindicator,Female,green,Human
+good,Marvel Comics,Vindicator,Male,-,-
+good,Marvel Comics,Vision,Male,gold,Android
+good,Marvel Comics,Vision II,-,red,-
+good,Marvel Comics,Vulcan,Male,black,-
+good,Marvel Comics,War Machine,Male,brown,Human
+good,Marvel Comics,Warbird,Female,blue,-
+good,Marvel Comics,Warlock,Male,red,-
+good,Marvel Comics,Warpath,Male,brown,Mutant
+good,Marvel Comics,Wasp,Female,blue,Human
+good,Marvel Comics,Watcher,Male,-,-
+good,Marvel Comics,White Queen,Female,blue,-
+good,Marvel Comics,Winter Soldier,Male,brown,Human
+good,Marvel Comics,Wiz Kid,-,brown,-
+good,Marvel Comics,Wolfsbane,Female,green,-
+good,Marvel Comics,Wolverine,Male,blue,Mutant
+good,Marvel Comics,Wonder Man,Male,red,-
+good,Marvel Comics,Wondra,Female,-,-
+good,Marvel Comics,Wyatt Wingfoot,Male,brown,-
+good,Marvel Comics,X-23,Female,green,Mutant / Clone
+good,Marvel Comics,X-Man,Male,blue,-
+good,Marvel Comics,Yellowjacket,Male,blue,Human
+good,Marvel Comics,Yellowjacket II,Female,blue,Human
+good,Marvel Comics,Ymir,Male,white,Frost Giant
